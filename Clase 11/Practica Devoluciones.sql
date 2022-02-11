@@ -147,7 +147,7 @@ begin
 	end
 end
 
-NDetDevCl '002', '02', 'Lata dañada..', 2
+NDetDevCl '002', '02', 'Lata daÃ±ada..', 2
 
 select * from DevCliente
 select * from DetDevCliente
@@ -310,14 +310,6 @@ select * from Compras
 select * from Productos
 select * from DevProveedor
 select * from DetDevProveedor
-
-create trigger actdvempp
-on
-DetDevProveedor
-after insert
-as
-	update Productos set exist= exist -(select cantdev from inserted)
-	from Productos p, DetDevProveedor ddp where p.CodProd=ddp.CodProd
 
 
 create procedure ActDevProv
