@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\CRUDPractica\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\Dell\Desktop\CRUDPractica\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\Dell\Desktop\CRUDPractica\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\Dell\Desktop\CRUDPractica\CRUD\CRUD\obj\Debug\CRUD.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\CRUDPractica\CRUD\CRUD\obj\Debug\CRUD.FrmPrincipal.resources
+C:\Users\Dell\Desktop\CRUDPractica\CRUD\CRUD\obj\Debug\CRUD.FrmLogin.resources
+C:\Users\Dell\Desktop\CRUDPractica\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\Dell\Desktop\CRUDPractica\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\CRUDPractica\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\CRUDPractica\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\Dell\Desktop\CRUDPractica\CRUD\CRUD\obj\Debug\CRUD.pdb
+C:\Users\Dell\Desktop\CRUDPractica\CRUD\CRUD\obj\Debug\CRUD.FrmMostrarProd.resources
+C:\Users\Dell\Desktop\CRUDPractica\CRUD\CRUD\obj\Debug\CRUD.FrmMostrarCL.resources
+C:\Users\Dell\Desktop\CRUDPractica\CRUD\CRUD\obj\Debug\CRUD.FrmNuevoProd.resources
