@@ -1,0 +1,49 @@
+C:\Users\50575\source\repos\Conexion\Conexion\obj\Debug\Conexion.csprojAssemblyReference.cache
+C:\Users\50575\source\repos\Conexion\Conexion\obj\Debug\Conexion.Form1.resources
+C:\Users\50575\source\repos\Conexion\Conexion\obj\Debug\Conexion.MDI.resources
+C:\Users\50575\source\repos\Conexion\Conexion\obj\Debug\Conexion.Properties.Resources.resources
+C:\Users\50575\source\repos\Conexion\Conexion\obj\Debug\Conexion.csproj.GenerateResource.cache
+C:\Users\50575\source\repos\Conexion\Conexion\bin\Debug\Conexion.exe.config
+C:\Users\50575\source\repos\Conexion\Conexion\bin\Debug\Conexion.exe
+C:\Users\50575\source\repos\Conexion\Conexion\bin\Debug\Conexion.pdb
+C:\Users\50575\source\repos\Conexion\Conexion\obj\Debug\Conexion.exe
+C:\Users\50575\source\repos\Conexion\Conexion\obj\Debug\Conexion.pdb
+C:\Users\50575\source\repos\Conexion\Conexion\obj\Debug\Conexion.Clientes.resources
+C:\Users\50575\source\repos\Conexion\Conexion\obj\Debug\Conexion.Insertar.resources
+D:\UPOLI\II Semestre 2019\Programacion Avanzada\Asignaciones\CRUD y Seguridad Jueves 10-10-19\Engels Ahiezer Prado Herrera\Conexion\Conexion\bin\Debug\Conexion.exe.config
+D:\UPOLI\II Semestre 2019\Programacion Avanzada\Asignaciones\CRUD y Seguridad Jueves 10-10-19\Engels Ahiezer Prado Herrera\Conexion\Conexion\obj\Debug\Conexion.exe
+D:\UPOLI\II Semestre 2019\Programacion Avanzada\Asignaciones\CRUD y Seguridad Jueves 10-10-19\Engels Ahiezer Prado Herrera\Conexion\Conexion\obj\Debug\Conexion.pdb
+D:\UPOLI\II Semestre 2019\Programacion Avanzada\Asignaciones\CRUD y Seguridad Jueves 10-10-19\Engels Ahiezer Prado Herrera\Conexion\Conexion\bin\Debug\Conexion.exe
+D:\UPOLI\II Semestre 2019\Programacion Avanzada\Asignaciones\CRUD y Seguridad Jueves 10-10-19\Engels Ahiezer Prado Herrera\Conexion\Conexion\bin\Debug\Conexion.pdb
+D:\UPOLI\II Semestre 2019\Programacion Avanzada\Asignaciones\CRUD y Seguridad Jueves 10-10-19\Engels Ahiezer Prado Herrera\Conexion\Conexion\obj\Debug\Conexion.csprojResolveAssemblyReference.cache
+D:\UPOLI\II Semestre 2019\Programacion Avanzada\Asignaciones\CRUD y Seguridad Jueves 10-10-19\Engels Ahiezer Prado Herrera\Conexion\Conexion\obj\Debug\Conexion.Clientes.resources
+D:\UPOLI\II Semestre 2019\Programacion Avanzada\Asignaciones\CRUD y Seguridad Jueves 10-10-19\Engels Ahiezer Prado Herrera\Conexion\Conexion\obj\Debug\Conexion.Form1.resources
+D:\UPOLI\II Semestre 2019\Programacion Avanzada\Asignaciones\CRUD y Seguridad Jueves 10-10-19\Engels Ahiezer Prado Herrera\Conexion\Conexion\obj\Debug\Conexion.Insertar.resources
+D:\UPOLI\II Semestre 2019\Programacion Avanzada\Asignaciones\CRUD y Seguridad Jueves 10-10-19\Engels Ahiezer Prado Herrera\Conexion\Conexion\obj\Debug\Conexion.MDI.resources
+D:\UPOLI\II Semestre 2019\Programacion Avanzada\Asignaciones\CRUD y Seguridad Jueves 10-10-19\Engels Ahiezer Prado Herrera\Conexion\Conexion\obj\Debug\Conexion.Properties.Resources.resources
+D:\UPOLI\II Semestre 2019\Programacion Avanzada\Asignaciones\CRUD y Seguridad Jueves 10-10-19\Engels Ahiezer Prado Herrera\Conexion\Conexion\obj\Debug\Conexion.csproj.GenerateResource.Cache
+G:\UPOLI\II Semestre 2019\Programacion Avanzada\Asignaciones\CRUD y Seguridad Jueves 10-10-19\Engels Ahiezer Prado Herrera\Conexion\Conexion\bin\Debug\Conexion.exe.config
+G:\UPOLI\II Semestre 2019\Programacion Avanzada\Asignaciones\CRUD y Seguridad Jueves 10-10-19\Engels Ahiezer Prado Herrera\Conexion\Conexion\bin\Debug\Conexion.exe
+G:\UPOLI\II Semestre 2019\Programacion Avanzada\Asignaciones\CRUD y Seguridad Jueves 10-10-19\Engels Ahiezer Prado Herrera\Conexion\Conexion\bin\Debug\Conexion.pdb
+G:\UPOLI\II Semestre 2019\Programacion Avanzada\Asignaciones\CRUD y Seguridad Jueves 10-10-19\Engels Ahiezer Prado Herrera\Conexion\Conexion\obj\Debug\Conexion.csprojAssemblyReference.cache
+G:\UPOLI\II Semestre 2019\Programacion Avanzada\Asignaciones\CRUD y Seguridad Jueves 10-10-19\Engels Ahiezer Prado Herrera\Conexion\Conexion\obj\Debug\Conexion.Clientes.resources
+G:\UPOLI\II Semestre 2019\Programacion Avanzada\Asignaciones\CRUD y Seguridad Jueves 10-10-19\Engels Ahiezer Prado Herrera\Conexion\Conexion\obj\Debug\Conexion.Form1.resources
+G:\UPOLI\II Semestre 2019\Programacion Avanzada\Asignaciones\CRUD y Seguridad Jueves 10-10-19\Engels Ahiezer Prado Herrera\Conexion\Conexion\obj\Debug\Conexion.Insertar.resources
+G:\UPOLI\II Semestre 2019\Programacion Avanzada\Asignaciones\CRUD y Seguridad Jueves 10-10-19\Engels Ahiezer Prado Herrera\Conexion\Conexion\obj\Debug\Conexion.MDI.resources
+G:\UPOLI\II Semestre 2019\Programacion Avanzada\Asignaciones\CRUD y Seguridad Jueves 10-10-19\Engels Ahiezer Prado Herrera\Conexion\Conexion\obj\Debug\Conexion.Properties.Resources.resources
+G:\UPOLI\II Semestre 2019\Programacion Avanzada\Asignaciones\CRUD y Seguridad Jueves 10-10-19\Engels Ahiezer Prado Herrera\Conexion\Conexion\obj\Debug\Conexion.csproj.GenerateResource.cache
+G:\UPOLI\II Semestre 2019\Programacion Avanzada\Asignaciones\CRUD y Seguridad Jueves 10-10-19\Engels Ahiezer Prado Herrera\Conexion\Conexion\obj\Debug\Conexion.exe
+G:\UPOLI\II Semestre 2019\Programacion Avanzada\Asignaciones\CRUD y Seguridad Jueves 10-10-19\Engels Ahiezer Prado Herrera\Conexion\Conexion\obj\Debug\Conexion.pdb
+C:\Users\Dell\Desktop\Conexion\Conexion\bin\Debug\Conexion.exe.config
+C:\Users\Dell\Desktop\Conexion\Conexion\bin\Debug\Conexion.exe
+C:\Users\Dell\Desktop\Conexion\Conexion\bin\Debug\Conexion.pdb
+C:\Users\Dell\Desktop\Conexion\Conexion\obj\Debug\Conexion.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Conexion\Conexion\obj\Debug\Conexion.Clientes.resources
+C:\Users\Dell\Desktop\Conexion\Conexion\obj\Debug\Conexion.Form1.resources
+C:\Users\Dell\Desktop\Conexion\Conexion\obj\Debug\Conexion.Insertar.resources
+C:\Users\Dell\Desktop\Conexion\Conexion\obj\Debug\Conexion.MDI.resources
+C:\Users\Dell\Desktop\Conexion\Conexion\obj\Debug\Conexion.Properties.Resources.resources
+C:\Users\Dell\Desktop\Conexion\Conexion\obj\Debug\Conexion.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Conexion\Conexion\obj\Debug\Conexion.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Conexion\Conexion\obj\Debug\Conexion.exe
+C:\Users\Dell\Desktop\Conexion\Conexion\obj\Debug\Conexion.pdb
